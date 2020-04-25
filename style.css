@@ -1,0 +1,45 @@
+body {
+  background: #4184bf;
+  color: aliceblue;
+  text-align: center;
+  font-family: "Arimo", sans-serif;
+}
+
+.brand-logo {
+  color: aliceblue;
+  text-align: center;
+  font-family: "Arimo", sans-serif;
+}
+
+.portfolio {
+  background: #4184bf;
+  color: aliceblue;
+}
+
+.words {
+  color: black;
+  width: fit-content;
+}
+
+.image {
+  height: 500px;
+  width: 100% !important;
+}
+
+#resume {
+  height: 750px;
+  width: 500px;
+  margin: auto;
+}
+
+nav {
+  background-color: #123e59 !important;
+}
+
+.card {
+  width: 100% !important;
+}
+
+.card-content {
+  width: 100%;
+}
